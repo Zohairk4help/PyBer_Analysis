@@ -1,4 +1,4 @@
-# PyBer_Analysis 
+# **PyBer_Analysis** 
 
 ## ***Overview of the analysis:***
 The analysis includes in data computation on the factors: total rides, total drivers, total fares, average fare per ride and average fare per driver and finding the total fare by the city types -- which are Rural, Urban and Suburban. The computation was performed to find the city type that has its largest contribution in ride-sharing in those factors stated above. 
