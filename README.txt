@@ -6,7 +6,7 @@ The analysis includes in data computation on the factors: total rides, total dri
 # ***Results:***
 ![Fig1](https://user-images.githubusercontent.com/89166130/135783748-f0d6c651-c727-4432-9f50-fa1c0516af8e.png)
 Urban has the largest number of rides in the year of 2019. Rural has very least number of rides but with a very high rate of ride-cost! 
-![](analysis/Fig1.png)
+
 
 ![Fig2](https://user-images.githubusercontent.com/89166130/135783749-ed65748a-200e-4ac5-9032-03a108aaa350.png)
 Fig2 proves the number of rides in urban cities. Also, the average number of rides in the rural cities is about 4X-times lower per city than the urban and suburban cities, respectively.
